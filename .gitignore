@@ -1,0 +1,17 @@
+# IDE/Build
+.idea/
+*.iml
+out/
+target/
+.gradle/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# test files
+src/Main.java
+src/TokenizerTest.java
+src/ParserTest.java
+src/WolframBeta.java
