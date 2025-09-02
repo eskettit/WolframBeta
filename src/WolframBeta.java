@@ -12,7 +12,7 @@ public class WolframBeta extends JFrame {
     private JButton graphButton;
 
     public WolframBeta() {
-        setTitle("Calculator");
+        setTitle("WolframBeta");
         setSize(800, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
